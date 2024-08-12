@@ -1,0 +1,7 @@
+quandl
+matplotlib
+numpy
+pystan
+fbprophet
+pandas
+pytrends
